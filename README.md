@@ -2,7 +2,7 @@
 
 📍 Kenya | 🎓 Computer Science Student | 💻 Senior software developer
 
-I am a second-year BSc Computer Science student at Multimedia University of Kenya. I build full-stack web applications with Django and MySQL, and I am always eager to learn more about machine learning and AI. I learn by building real projects, like my portfolio website.
+I am a second-year BSc Computer Science student at Multimedia University of Kenya. I build full-stack web applications with Django and MySQL, and I am currently learning machine learning and AI. I learn by building real projects, like my portfolio website.
 
 ## 🛠️ Tech stack
 
@@ -46,6 +46,10 @@ I am a second-year BSc Computer Science student at Multimedia University of Keny
 - 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio  and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/glassmorphism_login): user registration, login and a home page listing registered users, with a frosted-glass design
 - 🧩 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
+
+- ### 🎮 Games & Experiments
+
+- 🐍 [snake-game](https://github.com/Maxwel12744/snake-game): A snake game build with Javascript 
 
 ### 🌱 Currently Learning
 

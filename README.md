@@ -70,8 +70,7 @@ I am a second-year BSc Computer Science student at Multimedia University of Keny
 
 ## 📊 GitHub Activity
 
-![Contributions](https://some-service.example/path?username=Maxwel12744-arch&theme=dark)
-## 🤝 Connect
+![Contributions](https://ghchart.rshah.org/4f8cff/Maxwel12744)
 
 [![LinkedIn](https://img.shields.io/badge/Maxwel_Odhiambo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwel-odhiambo-0a1852388)
 [![Gmail](https://img.shields.io/badge/maxochieng07@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxochieng07@gmail.com)

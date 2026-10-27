@@ -6,8 +6,6 @@ I am a second-year BSc Computer Science student at Multimedia University of Keny
 
 ## 🛠️ Tech stack
 
-## 🛠️ Tech stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -39,21 +37,15 @@ I am a second-year BSc Computer Science student at Multimedia University of Keny
 
 - 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): my personal portfolio.
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/REPO-NAME): login and registration system with a glassmorphism interface.
-- 🎮 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): short description of this project
-- 🛒 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): short description of this project
-
+- 🎮 [cautious_fishstick](https://github.com/Maxwel12744/cautious_fishstick): Adds the students marks and display the result
+- 🛒 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 ## 🚀 Current Projects
 
 ### 🌐 Web & Applications
 
-- 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio with Django, MySQL, a contact form saved to the database, and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
-- 🔐 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): user registration, login and a home page listing registered users, with a frosted-glass design
-- 🧩 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): one-line description
-
-### 🎮 Games & Experiments
-
-- 🐍 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): one-line description
-- 🧪 [REPO-NAME](https://github.com/Maxwel12744/REPO-NAME): one-line description
+- 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio  and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
+- 🔐 [glassmorphism_login](https://github.com/Maxwel12744/glassmorphism_login): user registration, login and a home page listing registered users, with a frosted-glass design
+- 🧩 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 
 ### 🌱 Currently Learning
 
@@ -70,6 +62,7 @@ I am a second-year BSc Computer Science student at Multimedia University of Keny
 
 ## 📊 GitHub Activity
 
+![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)
 ![Streak stats](https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117)
 
 [![LinkedIn](https://img.shields.io/badge/Maxwel_Odhiambo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwel-odhiambo-0a1852388)

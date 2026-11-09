@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./terminal.svg" alt="Terminal Card" width="100%" />
 </p>
-# Hi, I'm Maxwel 👋
-
-📍 Kenya | 🎓 Computer Science Student | 💻 Senior software developer
-
-I am a second-year BSc Computer Science student at Multimedia University of Kenya. I build full-stack web applications with Django and MySQL, and I am currently learning machine learning and AI. I learn by building real projects, like my portfolio website.
 
 ## 🛠️ Tech stack
 

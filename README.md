@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://github.com/Maxwel12744">
-    <img src="https://img.shields.io/badge/CONTRIBUTIONS-900+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+    <img src="https://img.shields.io/badge/CONTRIBUTIONS-500+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Maxwel12744&style=for-the-badge&color=008080" alt="Profile Views" />
 </p>

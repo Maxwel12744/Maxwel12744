@@ -1,7 +1,48 @@
 <p align="center">
   <img src="./terminal.svg" alt="Terminal Card" width="100%" />
 </p>
+<!-- Technical Stack & Tooling Section -->
+<h2 align="center">🛠️ Technical Stack & Tooling</h2>
 
+<p align="center"><b>Core Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Core Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,mysql" alt="Backend and Databases" />
+  </a>
+</p>
+
+<p align="center"><b>Tools & Hosting</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,vercel" alt="Tools and Hosting" />
+  </a>
+</p>
+
+<br />
+
+<!-- Currently Learning Section -->
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center"><b>Languages & Frameworks</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,tailwind,vite" alt="Languages and Frameworks" />
+  </a>
+</p>
+
+<p align="center"><b>AI, Cloud & DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,docker,aws" alt="AI Cloud and DevOps" />
+  </a>
+</p>
 
 ## ⭐ Start Here
 

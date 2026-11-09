@@ -1,4 +1,4 @@
-"""Builds terminal.svg matching the dark cyan/neon theme card."""
+"""Builds terminal.svg with custom widescreen card dimensions."""
 from xml.sax.saxutils import escape
 
 # --- CONTENT: edit this part ---
@@ -12,17 +12,21 @@ STACK = ["Python", "Django", "MySQL", "JavaScript", "HTML", "CSS", "Git"]
 LEARNING = ["Machine Learning", "Artificial Intelligence", "Learning by Building"]
 STATUS = '"Building full-stack apps · open to internships"'
 
-# --- COLOR PALETTE MATCHING THE REFERENCE ---
-BG_COLOR = "#0b0f19"         # Dark navy background
-BORDER_COLOR = "#ffa726"     # Subtle gold/orange bottom outline
-TEXT_CYAN = "#00e5ff"        # Bright cyan name & prompt text
-TEXT_ORANGE = "#ffb74d"      # Warm orange taglines & command flags
-TEXT_GREEN = "#00e676"       # Neon green quotes & strings
-TEXT_PURPLE = "#b388ff"      # Soft lavender array text
-TEXT_MUTED = "#546e7a"       # Muted gray comments & brackets
+# --- COLOR PALETTE ---
+BG_COLOR = "#0b0f19"         
+BORDER_COLOR = "#ffa726"     
+TEXT_CYAN = "#00e5ff"        
+TEXT_ORANGE = "#ffb74d"      
+TEXT_GREEN = "#00e676"       
+TEXT_PURPLE = "#b388ff"      
+TEXT_MUTED = "#546e7a"       
 WHITE = "#ffffff"
 
-svg_content = f"""<svg fill="none" viewBox="0 0 900 372" width="900" height="372" xmlns="http://www.w3.org/2000/svg">
+# --- DIMENSIONS (Change width and height here) ---
+SVG_WIDTH = 920
+SVG_HEIGHT = 400
+
+svg_content = f"""<svg fill="none" viewBox="0 0 {SVG_WIDTH} {SVG_HEIGHT}" width="{SVG_WIDTH}" height="{SVG_HEIGHT}" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -30,19 +34,19 @@ svg_content = f"""<svg fill="none" viewBox="0 0 900 372" width="900" height="372
           font-family: "Courier New", Consolas, monospace;
           background-color: {BG_COLOR};
           color: {WHITE};
-          padding: 20px;
+          padding: 24px;
           border-radius: 16px;
-          height: 372px;
+          height: {SVG_HEIGHT}px;
           box-sizing: border-box;
           border: 1px solid rgba(255, 255, 255, 0.1);
-          box-shadow: 0 0 20px rgba(0, 0, 0, 0.8), inset 0 -3px 0 {BORDER_COLOR};
+          box-shadow: 0 0 25px rgba(0, 0, 0, 0.8), inset 0 -3px 0 {BORDER_COLOR};
         }}
         .header {{
           display: flex;
           align-items: center;
           justify-content: space-between;
           margin-bottom: 20px;
-          padding-bottom: 10px;
+          padding-bottom: 12px;
           border-bottom: 1px solid rgba(255, 255, 255, 0.05);
         }}
         .dots {{
@@ -71,7 +75,7 @@ svg_content = f"""<svg fill="none" viewBox="0 0 900 372" width="900" height="372
         }}
         .body {{
           font-size: 14px;
-          line-height: 1.8;
+          line-height: 1.9;
         }}
         .hero-name {{
           color: {TEXT_CYAN};
@@ -140,17 +144,4 @@ svg_content = f"""<svg fill="none" viewBox="0 0 900 372" width="900" height="372
 with open("terminal.svg", "w", encoding="utf-8") as f:
     f.write(svg_content)
 
-print("terminal.svg updated with dark cyan color scheme!")
-```[cite: 1, 10]
-
----
-
-### Step 2: Regenerate and Push
-Run these commands in your VS Code terminal to generate the new SVG file and push it live[cite: 1, 5]:
-
-```bash
-python make_terminal.py
-git add make_terminal.py terminal.svg
-git commit -m "Update terminal card to exact color theme"
-git push origin main
-```[cite: 1, 5]
+print("terminal.svg resized and generated successfully!")

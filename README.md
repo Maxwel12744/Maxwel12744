@@ -1,3 +1,4 @@
+![Terminal Card](./terminal.svg)
 # Hi, I'm Maxwel 👋
 
 📍 Kenya | 🎓 Computer Science Student | 💻 Senior software developer

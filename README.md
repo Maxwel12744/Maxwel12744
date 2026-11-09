@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./terminal.svg" alt="Terminal Card" width="100%" />
 </p>
-<p align="center">
-  <img src="./terminal.svg" alt="Terminal Card" width="100%" />
-</p>
 
 <!-- Social Links & Badges Row -->
 <p align="center">

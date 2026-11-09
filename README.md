@@ -1,6 +1,26 @@
 <p align="center">
   <img src="./terminal.svg" alt="Terminal Card" width="100%" />
 </p>
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal Card" width="100%" />
+</p>
+
+<!-- Social Links & Badges Row -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/Maxwel12744">
+    <img src="https://img.shields.io/badge/CONTRIBUTIONS-900+-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Maxwel12744&style=for-the-badge&color=008080" alt="Profile Views" />
+</p>
 <!-- Technical Stack & Tooling Section -->
 <h2 align="center">🛠️ Technical Stack & Tooling</h2>
 

@@ -1,4 +1,6 @@
-![Terminal Card](./terminal.svg)
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal Card" width="100%" />
+</p>
 # Hi, I'm Maxwel 👋
 
 📍 Kenya | 🎓 Computer Science Student | 💻 Senior software developer

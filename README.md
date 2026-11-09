@@ -10,7 +10,7 @@
   <a href="mailto:maxochieng07@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+  <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://github.com/Maxwel12744">

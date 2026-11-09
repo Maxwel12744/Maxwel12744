@@ -63,27 +63,31 @@
 
 ## ⭐ Start Here
 
+<p align="center">
+  <img src="./projects_card.svg" alt="Projects Card" width="100%" />
+</p>
 - 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): my personal portfolio.
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/REPO-NAME): login and registration system with a glassmorphism interface.
 - 🎮 [cautious_fishstick](https://github.com/Maxwel12744/cautious_fishstick): Adds the students marks and display the result
 - 🛒 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
+
 ## 🚀 Current Projects
 
 ### 🌐 Web & Applications
 
-- 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio  and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
+- 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/glassmorphism_login): user registration, login and a home page listing registered users, with a frosted-glass design
 - 🧩 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 
 - ### 🎮 Games & Experiments
 
-- 🐍 [snake-game](https://github.com/Maxwel12744/snake-game): A snake game build with Javascript 
+- 🐍 [snake-game](https://github.com/Maxwel12744/snake-game): A snake game build with Javascript
 
 ### 🌱 Currently Learning
 
 - 🤖 Machine learning and AI fundamentals
 - ⚙️ Building more with Django, MySQL and deployment
-🌐 Live site: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
+  🌐 Live site: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
 
 ## 🔭 What I'm Doing
 
@@ -116,4 +120,3 @@
 - 🎧 Outside coding, I enjoy [your hobby]
 
 </details>
-

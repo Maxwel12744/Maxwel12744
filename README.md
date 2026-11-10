@@ -63,7 +63,6 @@
 
 ## ⭐ Start Here
 
-- 🎮 [cautious_fishstick](https://github.com/Maxwel12744/cautious_fishstick): Adds the students marks and display the result
 - 🛒 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 
 ## 🚀 Current Projects

@@ -95,7 +95,7 @@
 
 - 🎓 I study Computer Science at Multimedia University of Kenya
 - 🌍 I'm based in Kenya
-- ⌨️ My favourite part of coding is
+- ⌨️ My favourite part of coding is Problem-Solving
 - 🎧 Outside coding, I enjoy Outdoors & Adventure
 
 </details>

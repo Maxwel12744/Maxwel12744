@@ -64,8 +64,6 @@
   <img src="projects_carousel.svg" alt="Projects Carousel" width="100%"/>
 </p>
 
-git [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
-
 - ### 🎮 Games & Experiments
 
 - 🐍 [snake-game](https://github.com/Maxwel12744/snake-game): A snake game build with Javascript

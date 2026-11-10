@@ -86,11 +86,6 @@
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)
 ![Streak stats](https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117)
 
-git a
-[![Follow](https://img.shields.io/github/followers/Maxwel12744?label=Follow&style=social)](https://github.com/Maxwel12744)
-
----
-
 ### 💭 Philosophy
 
 > "Learn by building." I turn what I study into real projects, then share them so I can learn from the feedback. Currently exploring how machine learning and AI are changing software development.

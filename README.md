@@ -62,11 +62,11 @@
 </p>
 
 ## ⭐ Start Here
-## ⭐ Start Here
 
 <p align="center">
   <img src="projects_carousel.svg" alt="Projects Carousel" width="100%"/>
 </p>
+
 ## 🚀 Current Projects
 
 ### 🌐 Web & Applications

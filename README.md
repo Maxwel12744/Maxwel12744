@@ -63,8 +63,6 @@
 
 ## ⭐ Start Here
 
-- 🛒 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
-
 ## 🚀 Current Projects
 
 ### 🌐 Web & Applications

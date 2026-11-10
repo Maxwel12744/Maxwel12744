@@ -84,8 +84,8 @@
 ## 📊 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwell12744/maxwell12744/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/maxwell12744/maxwell12744/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwel12744/maxwel12744/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/maxwel12744/maxwel12744/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
 </picture>
 
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)

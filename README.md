@@ -80,10 +80,6 @@
 - **Building** — Full-stack web apps with Django and MySQL
 - **Learning** — Machine learning and AI, and how to bring them into the software I build
 - **Shipping in public** — My projects land on GitHub, and I deploy them on Vercel
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwel12744/maxwel12744/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/maxwel12744/maxwel12744/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
-</picture>
 
 ## 📊 GitHub Activity
 

@@ -63,9 +63,6 @@
 
 ## ⭐ Start Here
 
-<p align="center">
-  <img src="./projects_card.svg" alt="Projects Card" width="100%" />
-</p>
 - 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): my personal portfolio.
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/REPO-NAME): login and registration system with a glassmorphism interface.
 - 🎮 [cautious_fishstick](https://github.com/Maxwel12744/cautious_fishstick): Adds the students marks and display the result

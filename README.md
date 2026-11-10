@@ -44,9 +44,6 @@
 
 <br />
 
-<!-- Currently Learning Section -->
-<h2 align="center">🌱 Currently Learning</h2>
-
 <p align="center"><b>Languages & Frameworks</b></p>
 <p align="center">
   <a href="https://skillicons.dev">

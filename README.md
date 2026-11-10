@@ -81,7 +81,12 @@
 - **Learning** — Machine learning and AI, and how to bring them into the software I build
 - **Shipping in public** — My projects land on GitHub, and I deploy them on Vercel
 
+### 🐍 Contribution Activity Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxwell12744/Maxwell12744/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Maxwell12744/Maxwell12744/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+</picture>
 ## 📊 GitHub Activity
 
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)

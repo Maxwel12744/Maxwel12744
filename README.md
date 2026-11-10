@@ -83,6 +83,13 @@
 
 ## 📊 GitHub Activity
 
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwell12744/maxwell12744/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/maxwell12744/maxwell12744/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+</picture>
+
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)
 ![Streak stats](https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117)
 

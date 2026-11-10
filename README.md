@@ -64,11 +64,6 @@
   <img src="projects_carousel.svg" alt="Projects Carousel" width="100%"/>
 </p>
 
-## 🚀 Current Projects
-
-### 🌐 Web & Applications
-
-- 🌐 [updated_portfolio](https://github.com/Maxwel12744/updated_portfolio): multi-page portfolio and an admin dashboard. Deployed on Vercel: [odhiambo-maxwel.vercel.app](https://odhiambo-maxwel.vercel.app)
 - 🔐 [glassmorphism_login](https://github.com/Maxwel12744/glassmorphism_login): user registration, login and a home page listing registered users, with a frosted-glass design
 - 🧩 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 

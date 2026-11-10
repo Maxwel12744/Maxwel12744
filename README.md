@@ -64,8 +64,7 @@
   <img src="projects_carousel.svg" alt="Projects Carousel" width="100%"/>
 </p>
 
-- 🔐 [glassmorphism_login](https://github.com/Maxwel12744/glassmorphism_login): user registration, login and a home page listing registered users, with a frosted-glass design
-- 🧩 [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
+git [xtreme-parking-system-application](https://github.com/Maxwel12744/xtreme-parking-system-application): A smart parking system
 
 - ### 🎮 Games & Experiments
 

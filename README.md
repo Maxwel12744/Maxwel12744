@@ -86,7 +86,7 @@
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)
 ![Streak stats](https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117)
 
-[![Gmail](https://img.shields.io/badge/maxochieng07@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxochieng07@gmail.com)
+git a
 [![Follow](https://img.shields.io/github/followers/Maxwel12744?label=Follow&style=social)](https://github.com/Maxwel12744)
 
 ---

@@ -81,6 +81,7 @@
 - **Learning** — Machine learning and AI, and how to bring them into the software I build
 - **Shipping in public** — My projects land on GitHub, and I deploy them on Vercel
 
+
 ## 📊 GitHub Activity
 
 ![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)

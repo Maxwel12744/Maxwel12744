@@ -83,7 +83,6 @@
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwel12744/maxwel12744/output/github-contribution-grid-snake-dark.svg">

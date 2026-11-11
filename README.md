@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Maxwel12744&style=for-the-badge&color=008080" alt="Profile Views" />
 </p>
 <!-- Technical Stack & Tooling Section -->
-<h2 align="center">🛠️ Technical Stack & Tooling</h2>
+<h2 align="center">Technical Stack & Tooling</h2>
 
 <p align="center"><b>Core Languages</b></p>
 <p align="center">

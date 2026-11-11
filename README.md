@@ -95,8 +95,6 @@
   <img src="https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117" alt="Streak stats">
 </p>
 
-![Contributions](https://gitlyy.vercel.app/api/contribution?username=Maxwel12744&hide_border=true)
-![Streak stats](https://streak-stats.demolab.com?user=Maxwel12744&theme=dark&hide_border=true&background=0d1117)
 
 ### 💭 Philosophy
 
